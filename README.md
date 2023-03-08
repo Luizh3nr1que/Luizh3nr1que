@@ -1,11 +1,11 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=25&pause=1000&color=AA20C3&vCenter=true&width=435&lines=Hello%2C+my+name+is+Luiz+Henrique;I+am+20+years+old;I+am+from+Brazil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=25&duration=3500&pause=300&color=AA20C3&vCenter=true&width=435&lines=Ola!+Me+Chamo+Luiz+Henrique;Tenho+20+Anos)](https://git.io/typing-svg)
 
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=synthwave)
-<br>
 
 
-## Principais Tecnologias que Utilizo:
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=23&duration=2114&pause=1000&color=AA20C3&multiline=true&repeat=false&width=435&lines=Principais+Tecnologias+que+Utilizo+%3A)](https://git.io/typing-svg)
 
 <div style="display: inline_block"><br/>
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
