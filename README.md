@@ -1,9 +1,9 @@
 
-### OLA! SOU LUIZ HENRIQUE ✌️ 20 Anos
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=25&pause=1000&color=AA20C3&vCenter=true&width=435&lines=Hello%2C+my+name+is+Luiz+Henrique;I+am+20+years+old;I+am+from+Brazil)](https://git.io/typing-svg)
 
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=synthwave)
 <br>
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Luizh3nr1que&bg_color=1212120&color=9700FF&line=FFFFFF&point=FFFFFF&area=true&booleano=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 ## Principais Tecnologias que Utilizo:
 
