@@ -21,3 +21,6 @@
   
   <br><br>
 ### Apaixonado por Tecnologia e Programação, estou constantemente em busca de oportunidades para crescer e evoluir.
+
+ 
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA20C3&height=120&section=footer"/>
