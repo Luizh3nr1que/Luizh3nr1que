@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**Luizh3nr1que/Luizh3nr1que** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### OLA! SOU LUIZ HENRIQUE ✌️
 
-Here are some ideas to get you started:
+![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que ultilizo 
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  
+  <img align="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  
+  <img align="center" alt="JS" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <br><br>
+  <img align="center" alt="JS" src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+  <img align="center" alt="JS" src="https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white"/>
+  <br><br>
+  <img align="center" alt="JS" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+  <img align="center" alt="JS" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white"/>
+</div>
+<br>
+
+Apaixonado por Tecnologia e Programação, estou constantemente em busca de oportunidades para crescer e evoluir.
