@@ -18,8 +18,22 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   &nbsp&nbsp
   <img align="center" alt="css" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+  <br>
+
+ ### Ferramentas:
+ 
+ <img align="center" alt="css" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+ &nbsp&nbsp
+ <img align="center" alt="css" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
+ &nbsp&nbsp
+ <img align="center" alt="css" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+ &nbsp&nbsp
+ <img align="center" alt="css" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+ 
+ 
   
-  <br><br>
+ 
+ <br><br>
 ### Apaixonado por Tecnologia e Programação, estou constantemente em busca de oportunidades para crescer e evoluir.
 
  
