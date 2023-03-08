@@ -2,6 +2,8 @@
 ### OLA! SOU LUIZ HENRIQUE ✌️ 20 Anos
 
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=synthwave)
+<br>
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
 
 ## Principais Tecnologias que Utilizo:
 
