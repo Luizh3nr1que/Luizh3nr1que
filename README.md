@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA20C3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&size=26&duration=4000&pause=500&color=AA20C3&vCenter=true&width=435&lines=Ola!+Me+Chamo+Luiz+Henrique;Tenho+20+Anos;Desenvolvedor+Web)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&duration=3000&pause=800&color=AA20C3&vCenter=true&width=435&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+Anos;Sigo+como+Desenvolvedor+web+Iniciante)](https://git.io/typing-svg)
 
 ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=synthwave)
 
