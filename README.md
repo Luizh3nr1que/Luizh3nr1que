@@ -30,9 +30,12 @@
  &nbsp&nbsp
  <img align="center" alt="css" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
  
+  ### Investimentos:
+
+<img align="center" alt="css" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
+&nbsp&nbsp  
+ <img align="center" alt="css" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white"/>
  
- 
-  
  
  <br><br>
 ### Apaixonado pela tecnologia e programação, estou à procura de oportunidades para aprimorar minhas habilidades e conhecimentos.
