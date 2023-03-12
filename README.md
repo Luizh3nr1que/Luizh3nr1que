@@ -2,7 +2,7 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA20C3&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubik+Iso&duration=3000&pause=800&color=AA20C3&vCenter=true&width=435&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+Anos;Sigo+como+Desenvolvedor+web+Iniciante)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=33&duration=2000&pause=900&color=AA20C3&vCenter=true&width=645&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+anos;Buscando+sempre+aprender+e+evoluir+como+programador.)](https://git.io/typing-svg)
 
  ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=synthwave)
 <img align="left" alt="coding" width=200 src="git.gif">
