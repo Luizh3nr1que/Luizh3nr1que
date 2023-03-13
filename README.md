@@ -4,8 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=33&duration=2000&pause=900&color=AA20C3&vCenter=true&width=645&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+anos;Buscando+sempre+aprender+e+evoluir+como+programador.)](https://git.io/typing-svg)
 
+
  ![Luiz GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=synthwave)
-<img align="left" alt="coding" width=200 src="git.gif">
+<img align="left" alt="coding" width=250 src="git.gif">
+
+<img height="160rem"  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizh3nr1que&langs_count=8&count_private=false&layout=compact&heme=synthwave&bg_color=0d1117&hide_border=true"/>
+  </div> 
 
 
 
