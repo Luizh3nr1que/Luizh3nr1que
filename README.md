@@ -6,7 +6,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=radical)
 
- <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+ 
 
 
 
@@ -38,7 +38,10 @@
 
 <img align="center" alt="css" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
 &nbsp&nbsp  
- <img align="center" alt="css" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white"/>
+ <img align="center" alt="css" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white"/><br><br>
+ 
+ <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
+ 
  
  
  <br><br>
