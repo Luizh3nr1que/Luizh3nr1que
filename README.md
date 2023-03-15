@@ -1,8 +1,8 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA20C3&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0063F4&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=33&duration=2000&pause=900&color=AA20C3&vCenter=true&width=645&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+anos;Buscando+sempre+aprender+e+evoluir+como+programador.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=33&duration=2000&pause=900&color=0063F4&vCenter=true&width=645&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+anos;Buscando+sempre+aprender+e+evoluir+como+programador.)](https://git.io/typing-svg)
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que)
 
@@ -49,4 +49,4 @@
 ### Apaixonado pela tecnologia e programação, estou à procura de oportunidades para aprimorar minhas habilidades e conhecimentos.
 
  
- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=AA20C3&height=120&section=footer"/>
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B28DE&height=120&section=footer"/>
