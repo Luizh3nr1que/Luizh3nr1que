@@ -4,7 +4,6 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=33&duration=2000&pause=900&color=AA20C3&vCenter=true&width=645&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+anos;Buscando+sempre+aprender+e+evoluir+como+programador.)](https://git.io/typing-svg)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=radical)
 
  
 
