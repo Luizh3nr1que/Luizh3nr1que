@@ -33,8 +33,7 @@
  <img align="center" alt="css" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
  &nbsp&nbsp
  <img align="center" alt="css" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>
- &nbsp&nbsp<br>
- <img align="center" alt="css" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white"/>
+
  
   ### Investimentos:
 
