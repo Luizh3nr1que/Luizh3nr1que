@@ -45,8 +45,6 @@
  
  
  
- <br><br>
-### Apaixonado pela tecnologia e programação, estou à procura de oportunidades para aprimorar minhas habilidades e conhecimentos.
 
  
  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0B28DE&height=120&section=footer"/>
