@@ -35,14 +35,10 @@
  &nbsp&nbsp
  <img align="center" alt="css" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
  &nbsp&nbsp
- <img align="center" alt="css" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br>
+ <img align="center" alt="css" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/><br><br><br>
 
  
-  ### Investimentos:
-
-<img align="center" alt="css" src="https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white"/>
-&nbsp&nbsp  
- <img align="center" alt="css" src="https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white"/><br><br>
+  
  
  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="400">
  
