@@ -1,12 +1,13 @@
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0063F4&height=120&section=header"/>
+<img width=100% align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0063F4&height=120&section=header"/>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=33&duration=2000&pause=900&color=0063F4&vCenter=true&width=645&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+anos;Buscando+sempre+aprender+e+evoluir+como+programador.)](https://git.io/typing-svg)
-
+ [![Typing SVG ](https://readme-typing-svg.demolab.com?font=Bebas+Neue&size=33&duration=2000&pause=900&color=0063F4&vCenter=true&width=645&lines=Ola!+Sou+Luiz+Henrique;Tenho+20+anos;Buscando+sempre+aprender+e+evoluir+como+programador.)](https://git.io/typing-svg)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=Luizh3nr1que&theme=transparent&hide_border=true&border_radius=5.5&locale=pt_BR&mode=weekly)](https://git.io/streak-stats)<br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=tokyonight)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Luizh3nr1que&show_icons=true&theme=tokyonight)<br>
+
 
 
  
