@@ -29,9 +29,13 @@
  ### Estudando Neste Momento:
   
   <img align="center" alt="css" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  &nbsp&nbsp
+  
  <img align="center" alt="css" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
- <img align="center" alt="css" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+ &nbsp&nbsp
  
+ <img align="center" alt="css" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white"/>
+ &nbsp&nbsp
  
  ### Ferramentas:
  
